@@ -1,7 +1,7 @@
-<h1>4-digit-bruteforce</h1>
+<h1>Atbash Cypher</h1>
 
 <h2>Description</h2>
-Simple Atbash cypher, encodes a text message in the reverse of the alphabet.
+Simple Atbash cypher encodes a text message in the reverse of the alphabet.
 <br />
 
 
